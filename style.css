@@ -1,0 +1,22 @@
+.root {
+    --themecolor: #788a7c;
+    --themecolor: #6ed198;
+    --themecolor: #6c757d;
+}
+
+
+.navsmall{
+    font-size: 14px;
+}
+.navbar {
+    background-color: #788a7c;
+}
+.banner{
+    background-image: url(nav-image.jpg);
+    background-size: cover;
+    height: 450px;
+}
+.btn{
+    border-radius: 0;
+    text-transform: uppercase;
+}
