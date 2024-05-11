@@ -16,7 +16,11 @@
     background-size: cover;
     height: 450px;
 }
+.banner-btn{
+    margin-top: 230px;
+    border-radius: 0%;
+    width: 17%;
+}
 .btn{
-    border-radius: 0;
-    text-transform: uppercase;
+    boarder color: white-space: ;;
 }
